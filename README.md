@@ -39,9 +39,7 @@ Software and Hardware List
 
 [Learning IBM Watson Analytics](https://www.packtpub.com/big-data-and-business-intelligence/learning-ibm-watson-analytics?utm_source=github&utm_campaign=9781785880773&utm_medium=repository)
 
-[]()
-
-[]()
+[IBM® SmartCloud® Essentials](https://www.packtpub.com/virtualization-and-cloud/ibm%C2%AE-smartcloud%C2%AE-essentials?utm_source=Github&utm_medium=Repository&utm_campaign=9781782170648)
 
 
 ### Suggestions and Feedback
