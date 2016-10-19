@@ -1,0 +1,10 @@
+applications:
+- path: JavaCloudantApp.war
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: B05307-07-01-eclipse
+  host: B05307-07-01-eclipse
+  disk_quota: 1024M
+  services:
+  - B05307-07-01-eclipse-cloudantNoSQLDB

@@ -1,0 +1,10 @@
+applications:
+- path: output/webApp.war
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: java-pi-hw-01
+  host: java-pi-hw-01
+  disk_quota: 1024M
+  services:
+  - java-pi-hw-01-personality_insights

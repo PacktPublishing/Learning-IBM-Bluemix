@@ -1,0 +1,9 @@
+include ':app'
+//include other modules here
+//include ':core'
+//include ':charts'
+//include ':maps'
+//include ':acceptance_tests'
+//include ':analytics'
+//include ':push'
+//include ':cloudant'
