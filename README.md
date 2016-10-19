@@ -26,6 +26,7 @@ protected void init(VaadinRequest vaadinRequest) {
 }
 
 ```
+Following Chapters 1,3,5,6 dont have code files. 
 
 Software and Hardware List
 
